@@ -1,7 +1,7 @@
 [![MasterHead](https://sun9-45.userapi.com/impg/h4vF1sH_yc2nV89_ZvZUuR0XI5tKgWq40GP3mg/Q1GC-TgCqxE.jpg?size=1280x786&quality=96&sign=99811536e0b619276b78865e141c484e&c_uniq_tag=I35fpyiumEW1-CSXZlqALLu-3OL-oaiQyqTS5u9_pLo&type=album)](https://progagoda.io)
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">Frontend developer from Saint-Petersburg</h3>
-<p align="right" width="400> <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="progagoda" /> </p>
+<img align="right" width="400"src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="progagoda" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=progagoda&label=Profile%20views&color=0e75b6&style=flat" alt="progagoda" /> </p>
 
 - 🔭 I’m currently working on **CRM in Nexign company**
