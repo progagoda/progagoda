@@ -23,6 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=progagoda&show_icons=true&locale=en&layout=compact" alt="progagoda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=progagoda&show_icons=true&locale=en" alt="progagoda" /></p>
+<p>&nbsp;<img align="center" src="https://www.codewars.com/users/Quazimota/badges/large" alt="codewarsScore" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=progagoda&" alt="progagoda" /></p>
 
