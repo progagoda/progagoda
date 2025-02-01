@@ -24,6 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=progagoda&show_icons=true&locale=en" alt="progagoda" /></p>
 <p>&nbsp;<img align="center" src="https://www.codewars.com/users/Quazimota/badges/large" alt="codewarsScore" /></p>
-<p>&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/progagoda?theme=dark&font=Cabin%20Sketch&ext=heatmap" alt="leetcode" /></p>
+<p><img align="center" src="https://leetcard.jacoblin.cool/progagoda?theme=dark&font=Cabin%20Sketch&ext=heatmap" alt="leetcode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=progagoda&" alt="progagoda" /></p>
